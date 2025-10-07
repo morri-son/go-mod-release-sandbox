@@ -4,3 +4,5 @@ package cli
 func Hello() string {
 	return "hello from CLI"
 }
+
+// add comment for additional commit to simulate actions on main branch after creation of release branch
